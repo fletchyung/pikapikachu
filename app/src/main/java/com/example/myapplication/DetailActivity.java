@@ -19,26 +19,26 @@ public class DetailActivity extends AppCompatActivity {
         int position = getIntent().getExtras().getInt("title");
 
         if (position == 0) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/bulbasaur");
         }
         if (position == 1) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/ivysaur");
 
         }
         if (position == 2) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/venusaur");
 
         }
         if (position == 3) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/charmander");
 
         }
         if (position == 4) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/");
 
         }
         if (position == 5) {
-            webView.loadUrl("");
+            webView.loadUrl("https://www.pokemon.com/ru/pokedex/pikachu");
 
         }
     }

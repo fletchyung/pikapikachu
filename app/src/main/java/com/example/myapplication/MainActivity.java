@@ -13,12 +13,12 @@ public class MainActivity extends AppCompatActivity {
 
 
     private String titles[] = {
-            "1. ",
-            "2. ",
-            "3. ",
-            "4. ",
-            "5. ",
-            "6. ",
+            "1. бульюозавтр ",
+            "2. пикачу ",
+            "3. чармандер ",
+            "4. спок ",
+            "5. джуга",
+            "6. пина",
 
     };
 
